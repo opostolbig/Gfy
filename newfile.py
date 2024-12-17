@@ -12,7 +12,7 @@ from colorama import Fore, Style
 
 api_id = 25055016
 api_hash = '25edf5b7becebe91a2d61fe8d9d9931b'
-bot_token = '7501860705:AAEPuThmAoVhCFnqkBPGKJ9EENi70vnbszs'
+bot_token = '7642861396:AAHKFGfwLyq3TG96HjCRjWmqHOyJr0gO0Ig'
 subs_file = "sub/sub.txt"
 image_path = "image/image.jpg"
 usage_limits = {}
